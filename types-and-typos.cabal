@@ -55,3 +55,9 @@ executable HelloWorld
   build-depends:       base >=4.7 && <4.8
   default-language:    Haskell2010
 
+executable assignmentError
+  hs-source-dirs:      src
+  main-is:             AssignmentError.hs
+  build-depends:       base >=4.7 && <4.8
+  default-language:    Haskell2010
+
