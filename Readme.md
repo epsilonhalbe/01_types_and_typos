@@ -171,7 +171,7 @@ checker/inferencer can figure it out.
 Containers
 ----------
 
-- Lists `[a]` are always heterogenous
+- Lists `[a]` are always homogenous
 - Tuples `(a,b)`, `(a,b,c)` … (up to 15 entries or so)
 - Maybes `Maybe a`
 - Sequences `Seq a`
